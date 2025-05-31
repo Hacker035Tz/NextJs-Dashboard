@@ -1,0 +1,6 @@
+.setup {
+  height: 30px;
+  width: 30px;
+  background-color: #000;
+  clip-path: polygon(0 100%, 100% 100%, 50% 0);
+}
